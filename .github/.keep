@@ -1,6 +1,0 @@
-Name = input("what is your name ")
-print("Oh HOW original isn't", Name, "one of those cringy 2000's names how does it feel to have one of the most generic names in the world")
-Age = input("anyways how old are you ")
-print("Wow your", Age, "and your still acting like 12 month old crybaby get a life")
-Color = input("whats your favorete color so I can embarrise you more ")
-print("wow another origional chose", Color, "whats next your favorete food is avacado toast")
